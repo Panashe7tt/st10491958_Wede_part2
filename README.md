@@ -10,7 +10,9 @@ Screenshots
 <img width="693" height="645" alt="image" src="https://github.com/user-attachments/assets/52ad6f72-7e6a-443e-bf20-93c67751f5df" />
 
 overview
-i now 
+For this part of the project, I focused on improving my work based on the feedback I received from Part 1. I went through the comments carefully and made the necessary changes, which I’ve documented in the changelog section of the README file. I started by creating an external stylesheet (style.css) and applied consistent base styles across the site, including font choices, colors, and spacing. I used CSS Grid and Flexbox to structure the layout for the desktop version, making sure everything is clear and easy to navigate. I also added visual styles using properties like color, border, and box-shadow, and included interactive elements with pseudo-classes like :hover and :focus to improve the user experience.
+
+To make the site responsive, I identified breakpoints for desktop, tablet, and mobile views and used media queries to apply styles accordingly. I made sure the layout shifts from multi-column to single-column depending on the screen size, and adjusted font sizes and navigation for each breakpoint. I used relative units like em, rem, and % to keep everything scalable, and optimized images using srcset and sizes so they load properly across devices. I tested the site using browser developer tools and included screenshots showing how the layout adapts at different screen sizes. Overall, I focused on creating a clean, responsive design that looks professional and works well across all devices.
 
 
 
