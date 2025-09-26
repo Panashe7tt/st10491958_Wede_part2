@@ -1,6 +1,14 @@
 #part2 README
 Part2
 References
+d, 2022. How to Write a Construction Company Mission Statement. [Online] 
+Available at: https://buildertrend.com/blog/construction-company-mission-statement/ 
+[Accessed 26 August 2025].
+Zhou, P. C., 12 October 2025. Siyazama Civil Construction. [Online] 
+Available at: file:///C:/Users/Panache/st10491958_WEDE5020_Part1/index.html
+[Accessed 12 October 2025].
+
+
 Screenshots
 <img width="341" height="556" alt="image" src="https://github.com/user-attachments/assets/bc5c583a-e25e-419a-87f6-8f2296798b4e" />
 <img width="675" height="659" alt="image" src="https://github.com/user-attachments/assets/c4c91185-6436-47f9-b839-e19a9ef17cc9" />
